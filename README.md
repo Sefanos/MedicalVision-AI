@@ -46,7 +46,7 @@ mkdir -p models
 Create a `.env` file in the project root:
 
 ```
-LLM_API_KEY=your_groq_api_key_here
+GROQ_API_KEY=your_groq_api_key_here
 LLM_MODEL=llama3-70b-8192
 ```
 
