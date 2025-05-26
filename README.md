@@ -3,7 +3,7 @@
 ![MedicalVision-AI Logo](https://img.shields.io/badge/MedicalVision-AI-blue?style=for-the-badge)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Python](https://img.shields.io/badge/python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.11.3-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## About
 
