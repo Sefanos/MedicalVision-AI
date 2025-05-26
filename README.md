@@ -55,7 +55,7 @@ LLM_MODEL=llama3-70b-8192
 ### Starting the API
 
 ```bash
-uvicorn analysis:app --reload
+uvicorn analysis:app --reload --port 5173
 ```
 
 The API will be available at http://localhost:8000
